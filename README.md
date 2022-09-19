@@ -1,17 +1,17 @@
 # Stock_Analysis
 Module 2 Stock Analysis
-#####Purpose
+##### Purpose
 
 The goal of this module was to learn how to use VBA and the reasons why we would choose to use VBA instead of working on the spreadsheet. The project cultimated in a refracting excercise. We extrated data from the years 2017 and 2018 to determine whether or not the list of twelve stocks are worth investing in.
 
-#####The Data
+##### The Data
 
 The data originally presented included two charts with information on twelve different stock options. The stock information we received contained a ticker value, the date the stock was issued, the opening, closing and adjusted closing price, the highest and lowest price, and the volume of the stock. We were then able to retrieve the ticker, the total daily volume, and the return on each stock.
 
 
-##Results
+## Results
 
-#####Analysis
+##### Analysis
 
 I started with the VBA_Challenge template provided by the course instructors. I used Data Spell as the vessel to then copy and paste the code and instructions. I then proceeded with the refractoring process. Below is the code as described.
 
