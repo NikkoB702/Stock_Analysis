@@ -194,3 +194,19 @@ Next i
 
 
 End Sub`
+
+
+## Summary
+
+
+##### Pros and Cons of Refactoring Code
+
+Refactoring helps clean up code that is written and provides a more organized experience for anybody looking to read or write within the code. Refactoring can also help increase faster programming, debugging, and general software improvement. Some disadvantages may arise if the applications are too large or possibly not having the proper existing code. 
+
+##### The Advantages of Refactoring Stock Analysis
+
+When we use refactoring, we will see a decreased macro run time which can be benefit us especially if the code is searching through a large database. This will please anybody who needs to use this macro if they have time constraints.
+
+![Screenshot 2022-09-18 172659](https://user-images.githubusercontent.com/80132877/190937154-8dd3bae6-710d-4786-ab57-8c6fbe08d261.png)
+
+![Screenshot 2022-09-18 172815](https://user-images.githubusercontent.com/80132877/190937162-1545172a-7c4d-4086-ae28-5b26d47cd633.png)
